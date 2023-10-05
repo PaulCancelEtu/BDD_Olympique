@@ -1,0 +1,44 @@
+Combien y a-t-il de lignes dans chaque fichier ?
+Pour le fichier athlete_events.csv :
+wc -l athlete_events.csv 
+    271117 lignes
+
+Pour le fichier noc_regions.csv : 
+wc -l noc_regions.csv 
+    0 lignes mais quand on lance le fichier dans nano, il y a 231 lignes
+
+
+Afficher uniquement la première ligne du fichier athlète ?
+head -n 1 athele_events.csv 
+    "ID","Name","Sex","Age","Height","Weight","Team","NOC","Games","Year","Season","City","Sport","Event","Medal"
+
+Quel est le séparateur de champs ?  
+    ","
+
+Que représente une ligne ?
+Une ligne du fichier correspond aux informations sur un athlète (âge, poids, taille, équipe et noc) et à quelle épreuve il a participé, la date de l’épreuve, et s’il a gagné une médaille
+
+Combien y a-t-il de colonnes ? 
+head -n 1 athlete_events.csv | tr “,” “\n” | wc -l
+    15 colonnes dans le fichier athlete_events.csv.
+
+Quelle colonne distingue les jeux d’été et d'hiver ?
+C’est la colonne « Season » qui distingue les jeux d’été et les jeux d’hiver
+Les jeux d’été sont notés « Summer » et pour ceux d’hiver, « Winter »
+
+Combien de lignes font référence à Jean-Claude Killy ?
+grep “Jean-Claude Killy” athlete_events.csv | wc -l
+    6 lignes font reference à Jean-Claude Killy
+
+Quel encodage est utilisé pour ce fichier ?
+file -i athlete_events.csv
+    Le fichier athlete_events.csv est encodé en us-ascii
+
+Comment envisagez-vous l’import de ces données ?
+CREATE temporary TABLE import(
+  id INT, name VARCHAR(108), sex CHAR(1),  age INT, height INT, weight FLOAT,
+  team VARCHAR(47), noc VARCHAR(3), game VARCHAR(11), year INT,
+  season VARCHAR(26), city VARCHAR(22), sport VARCHAR(25),event VARCHAR(85),
+  medal VARCHAR(6));
+\copy import from athlete_events.csv delimiter ',' HEADER csv NULL AS 'NA'; 
+Le “NULL AS NA” nous permet de passer tous les « NA » à NULL pour nous faciliter l’import de ces données.
