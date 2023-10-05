@@ -1,0 +1,573 @@
+eno;sport;event
+1;Swimming;Swimming Women's 4 x 100 metres Medley Relay
+2;Archery;Archery Women's Team
+3;Speed Skating;Speed Skating Women's 5,000 metres
+4;Gymnastics;Gymnastics Men's Horse Vault
+5;Sailing;Sailing Mixed 6.5 metres
+6;Gymnastics;Gymnastics Men's Team All-Around
+7;Weightlifting;Weightlifting Women's Lightweight
+8;Freestyle Skiing;Freestyle Skiing Women's Slopestyle
+9;Badminton;Badminton Women's Doubles
+10;Rowing;Rowing Men's Quadruple Sculls
+11;Athletics;Athletics Men's 10 kilometres Walk
+12;Canoeing;Canoeing Men's Kayak Singles, 500 metres
+13;Shooting;Shooting Men's Military Rifle, Prone, 600 metres
+14;Wrestling;Wrestling Men's Featherweight, Freestyle
+15;Synchronized Swimming;Synchronized Swimming Women's Duet
+16;Fencing;Fencing Women's Foil, Team
+17;Athletics;Athletics Women's High Jump
+18;Judo;Judo Women's Middleweight
+19;Weightlifting;Weightlifting Men's Heavyweight II
+20;Table Tennis;Table Tennis Women's Team
+21;Shooting;Shooting Men's Running Target, 50 metres
+22;Cycling;Cycling Men's Road Race, Team
+23;Luge;Luge Mixed Team Relay
+24;Canoeing;Canoeing Men's Kayak Singles, Slalom
+25;Cycling;Cycling Men's 100 kilometres Team Time Trial
+26;Nordic Combined;Nordic Combined Men's Team
+27;Athletics;Athletics Men's 4 x 100 metres Relay
+28;Sailing;Sailing Men's Skiff
+29;Rowing;Rowing Women's Coxed Eights
+30;Badminton;Badminton Men's Singles
+31;Diving;Diving Women's Platform
+32;Swimming;Swimming Women's 200 metres Backstroke
+33;Diving;Diving Men's Synchronized Platform
+34;Sailing;Sailing Mixed Multihull
+35;Athletics;Athletics Women's 4 x 400 metres Relay
+36;Athletics;Athletics Men's 1,500 metres
+37;Boxing;Boxing Men's Middleweight
+38;Snowboarding;Snowboarding Women's Slopestyle
+39;Snowboarding;Snowboarding Women's Parallel Slalom
+40;Athletics;Athletics Men's 3,000 metres Walk
+41;Canoeing;Canoeing Men's Kayak Singles, 200 metres
+42;Shooting;Shooting Men's Skeet
+43;Cycling;Cycling Men's Road Race, Individual
+44;Cycling;Cycling Men's Keirin
+45;Rowing;Rowing Men's Coxless Pairs
+46;Rowing;Rowing Men's Coxed Pairs
+47;Athletics;Athletics Women's 400 metres
+48;Equestrianism;Equestrianism Mixed Dressage, Team
+49;Athletics;Athletics Women's 200 metres
+50;Athletics;Athletics Men's Hammer Throw
+51;Ski Jumping;Ski Jumping Men's Large Hill, Team
+52;Boxing;Boxing Men's Featherweight
+53;Sailing;Sailing Mixed Three Person Keelboat
+54;Archery;Archery Men's Team
+55;Modern Pentathlon;Modern Pentathlon Men's Individual
+56;Sailing;Sailing Men's One Person Dinghy
+57;Ski Jumping;Ski Jumping Women's Normal Hill, Individual
+58;Equestrianism;Equestrianism Men's Jumping, Individual
+59;Archery;Archery Men's Pole Archery, Small Birds, Individual
+60;Swimming;Swimming Women's 100 metres Backstroke
+61;Figure Skating;Figure Skating Mixed Ice Dancing
+62;Wrestling;Wrestling Women's Flyweight, Freestyle
+63;Weightlifting;Weightlifting Men's Light-Heavyweight
+64;Canoeing;Canoeing Men's Kayak Doubles, 500 metres
+65;Archery;Archery Men's Target Archery, 33 metres, Individual
+66;Swimming;Swimming Women's 4 x 200 metres Freestyle Relay
+67;Swimming;Swimming Men's 200 metres Butterfly
+68;Taekwondo;Taekwondo Men's Flyweight
+69;Shooting;Shooting Men's Free Rifle, 400, 600 and 800 metres, Team
+70;Cycling;Cycling Women's 500 metres Time Trial
+71;Canoeing;Canoeing Men's Kayak Doubles, 10,000 metres
+72;Sailing;Sailing Mixed Two Person Dinghy
+73;Athletics;Athletics Men's Cross-Country, Team
+74;Cycling;Cycling Women's Individual Pursuit, 3,000 metres
+75;Sailing;Sailing Mixed 12 metres
+76;Gymnastics;Gymnastics Men's Rope Climbing
+77;Wrestling;Wrestling Women's Heavyweight, Freestyle
+78;Wrestling;Wrestling Women's Middleweight, Freestyle
+79;Snowboarding;Snowboarding Women's Halfpipe
+80;Rhythmic Gymnastics;Rhythmic Gymnastics Women's Group
+81;Gymnastics;Gymnastics Men's Horizontal Bar
+82;Wrestling;Wrestling Women's Light-Heavyweight, Freestyle
+83;Rowing;Rowing Women's Double Sculls
+84;Judo;Judo Men's Middleweight
+85;Rowing;Rowing Women's Coxless Fours
+86;Athletics;Athletics Men's 4 x 400 metres Relay
+87;Boxing;Boxing Men's Lightweight
+88;Athletics;Athletics Women's Heptathlon
+89;Judo;Judo Men's Extra-Lightweight
+90;Snowboarding;Snowboarding Men's Halfpipe
+91;Rowing;Rowing Women's Single Sculls
+92;Shooting;Shooting Men's Military Rifle, Standing, 300 metres, Team
+93;Archery;Archery Men's Target Archery, 50 metres, Team
+94;Weightlifting;Weightlifting Women's Flyweight
+95;Rowing;Rowing Women's Coxed Fours
+96;Shooting;Shooting Men's Free Rifle, Three Positions, 300 metres
+97;Baseball;Baseball Men's Baseball
+98;Gymnastics;Gymnastics Men's Team All-Around, Free System
+99;Shooting;Shooting Men's Air Rifle, 10 metres
+100;Diving;Diving Women's Synchronized Platform
+101;Speed Skating;Speed Skating Men's Team Pursuit (8 laps)
+102;Shooting;Shooting Mixed Running Target, 50 metres
+103;Shooting;Shooting Women's Skeet
+104;Table Tennis;Table Tennis Men's Singles
+105;Judo;Judo Women's Lightweight
+106;Wrestling;Wrestling Men's Light-Flyweight, Freestyle
+107;Shooting;Shooting Men's Running Target, Single And Double Shot
+108;Freestyle Skiing;Freestyle Skiing Men's Halfpipe
+109;Weightlifting;Weightlifting Men's Flyweight
+110;Beach Volleyball;Beach Volleyball Men's Beach Volleyball
+111;Athletics;Athletics Women's Pole Vault
+112;Equestrianism;Equestrianism Men's Vaulting, Team
+113;Freestyle Skiing;Freestyle Skiing Men's Slopestyle
+114;Athletics;Athletics Men's 400 metres
+115;Athletics;Athletics Women's Marathon
+116;Canoeing;Canoeing Men's Canadian Doubles, 1,000 metres
+117;Swimming;Swimming Women's 200 metres Freestyle
+118;Polo;Polo Men's Polo
+119;Figure Skating;Figure Skating Women's Singles
+120;Gymnastics;Gymnastics Women's Team All-Around
+121;Sailing;Sailing Mixed 30 metres
+122;Modern Pentathlon;Modern Pentathlon Men's Team
+123;Figure Skating;Figure Skating Mixed Team
+124;Athletics;Athletics Women's 80 metres Hurdles
+125;Canoeing;Canoeing Men's Canadian Doubles, 10,000 metres
+126;Alpine Skiing;Alpine Skiing Men's Super G
+127;Shooting;Shooting Mixed Rapid-Fire Pistol, 25 metres
+128;Swimming;Swimming Women's 200 metres Breaststroke
+129;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres
+130;Speed Skating;Speed Skating Men's 10,000 metres
+131;Athletics;Athletics Women's Shot Put
+132;Swimming;Swimming Women's 300 metres Freestyle
+133;Diving;Diving Women's Springboard
+134;Gymnastics;Gymnastics Women's Balance Beam
+135;Ski Jumping;Ski Jumping Men's Large Hill, Individual
+136;Swimming;Swimming Men's 4 x 100 metres Freestyle Relay
+137;Diving;Diving Women's Synchronized Springboard
+138;Ski Jumping;Ski Jumping Men's Normal Hill, Individual
+139;Taekwondo;Taekwondo Women's Welterweight
+140;Triathlon;Triathlon Men's Olympic Distance
+141;Swimming;Swimming Men's 200 metres Breaststroke
+142;Athletics;Athletics Women's 20 kilometres Walk
+143;Wrestling;Wrestling Men's Welterweight, Freestyle
+144;Swimming;Swimming Men's 400 metres Individual Medley
+145;Weightlifting;Weightlifting Women's Middleweight
+146;Wrestling;Wrestling Men's Featherweight, Greco-Roman
+147;Canoeing;Canoeing Men's Kayak Singles, 10,000 metres
+148;Canoeing;Canoeing Men's Kayak Singles, 1,000 metres
+149;Rugby Sevens;Rugby Sevens Men's Rugby Sevens
+150;Cycling;Cycling Men's Sprint
+151;Swimming;Swimming Women's 800 metres Freestyle
+152;Swimming;Swimming Men's 400 metres Freestyle
+153;Swimming;Swimming Men's 4 x 200 metres Freestyle Relay
+154;Biathlon;Biathlon Women's 3 x 7.5 kilometres Relay
+155;Athletics;Athletics Women's 5,000 metres
+156;Canoeing;Canoeing Men's Canadian Singles, 1,000 metres
+157;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay
+158;Shooting;Shooting Men's Small-Bore Rifle, Standing, 50 metres
+159;Taekwondo;Taekwondo Men's Welterweight
+160;Badminton;Badminton Men's Doubles
+161;Nordic Combined;Nordic Combined Men's Sprint
+162;Bobsleigh;Bobsleigh Men's Two
+163;Shooting;Shooting Men's Running Target, Single Shot, Team
+164;Shooting;Shooting Men's Military Pistol, Team
+165;Freestyle Skiing;Freestyle Skiing Men's Ski Cross
+166;Freestyle Skiing;Freestyle Skiing Men's Moguls
+167;Equestrianism;Equestrianism Men's Three-Day Event, Individual
+168;Shooting;Shooting Men's Trap
+169;Diving;Diving Men's Springboard
+170;Sailing;Sailing Mixed 12 foot
+171;Judo;Judo Women's Half-Heavyweight
+172;Athletics;Athletics Men's 3,000 metres Steeplechase
+173;Swimming;Swimming Women's 400 metres Individual Medley
+174;Weightlifting;Weightlifting Men's Lightweight
+175;Wrestling;Wrestling Men's Light-Heavyweight, Greco-Roman
+176;Cross Country Skiing;Cross Country Skiing Men's 18 kilometres
+177;Weightlifting;Weightlifting Men's Heavyweight I
+178;Boxing;Boxing Men's Light-Flyweight
+179;Shooting;Shooting Men's Running Target, Double Shot, Team
+180;Archery;Archery Men's Pole Archery, Large Birds, Team
+181;Cross Country Skiing;Cross Country Skiing Men's Sprint
+182;Boxing;Boxing Men's Light-Middleweight
+183;Gymnastics;Gymnastics Men's Pommelled Horse
+184;Ice Hockey;Ice Hockey Men's Ice Hockey
+185;Rowing;Rowing Men's Coxed Fours
+186;Short Track Speed Skating;Short Track Speed Skating Women's 1,000 metres
+187;Sailing;Sailing Mixed 10 metres
+188;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay
+189;Alpine Skiing;Alpine Skiing Men's Giant Slalom
+190;Figure Skating;Figure Skating Mixed Pairs
+191;Speed Skating;Speed Skating Women's 3,000 metres
+192;Football;Football Women's Football
+193;Wrestling;Wrestling Men's Heavyweight, Freestyle
+194;Boxing;Boxing Women's Middleweight
+195;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual
+196;Equestrianism;Equestrianism Mixed Jumping, Individual
+197;Cycling;Cycling Women's Team Pursuit
+198;Equestrianism;Equestrianism Men's Dressage, Individual
+199;Wrestling;Wrestling Men's Bantamweight, Greco-Roman
+200;Bobsleigh;Bobsleigh Men's Four
+201;Cross Country Skiing;Cross Country Skiing Men's 10/10 kilometres Pursuit
+202;Cycling;Cycling Men's Individual Pursuit, 4,000 metres
+203;Speed Skating;Speed Skating Women's 500 metres
+204;Athletics;Athletics Men's Pole Vault
+205;Cross Country Skiing;Cross Country Skiing Women's 5/5 kilometres Pursuit
+206;Skeleton;Skeleton Men's Skeleton
+207;Boxing;Boxing Men's Light-Welterweight
+208;Shooting;Shooting Men's Small Bore-Rifle, Standing, 50 metres, Team
+209;Speed Skating;Speed Skating Women's 1,500 metres
+210;Athletics;Athletics Men's Pentathlon
+211;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual
+212;Athletics;Athletics Women's 100 metres
+213;Athletics;Athletics Women's Discus Throw
+214;Athletics;Athletics Men's 5,000 metres
+215;Shooting;Shooting Mixed Small-Bore Rifle, Prone, 50 metres
+216;Alpine Skiing;Alpine Skiing Women's Super G
+217;Rowing;Rowing Men's Coxed Eights
+218;Luge;Luge Men's Singles
+219;Table Tennis;Table Tennis Men's Doubles
+220;Equestrianism;Equestrianism Mixed Three-Day Event, Team
+221;Handball;Handball Women's Handball
+222;Cross Country Skiing;Cross Country Skiing Men's 10/15 kilometres Pursuit
+223;Gymnastics;Gymnastics Women's Individual All-Around
+224;Shooting;Shooting Men's Air Pistol, 10 metres
+225;Sailing;Sailing Mixed Two Person Heavyweight Dinghy
+226;Badminton;Badminton Mixed Doubles
+227;Freestyle Skiing;Freestyle Skiing Men's Aerials
+228;Swimming;Swimming Men's 400 metres Breaststroke
+229;Canoeing;Canoeing Men's Kayak Fours, 1,000 metres
+230;Rowing;Rowing Women's Coxed Quadruple Sculls
+231;Alpine Skiing;Alpine Skiing Women's Combined
+232;Sailing;Sailing Men's Two Person Keelboat
+233;Gymnastics;Gymnastics Men's Team All-Around, Swedish System
+234;Athletics;Athletics Men's Triple Jump
+235;Swimming;Swimming Men's 100 metres Freestyle
+236;Athletics;Athletics Women's 4 x 100 metres Relay
+237;Fencing;Fencing Women's Foil, Individual
+238;Fencing;Fencing Women's Sabre, Individual
+239;Archery;Archery Men's Target Archery, 28 metres, Team
+240;Bobsleigh;Bobsleigh Women's Two
+241;Cycling;Cycling Men's Points Race
+242;Snowboarding;Snowboarding Men's Parallel Slalom
+243;Alpine Skiing;Alpine Skiing Women's Downhill
+244;Canoeing;Canoeing Women's Kayak Doubles, 500 metres
+245;Swimming;Swimming Women's 50 metres Freestyle
+246;Tennis;Tennis Men's Singles
+247;Sailing;Sailing Women's Skiff
+248;Shooting;Shooting Women's Trap
+249;Shooting;Shooting Men's Free Rifle, Prone, 600 metres
+250;Sailing;Sailing Mixed One Person Dinghy
+251;Sailing;Sailing Mixed 18 foot
+252;Short Track Speed Skating;Short Track Speed Skating Women's 1,500 metres
+253;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres
+254;Volleyball;Volleyball Men's Volleyball
+255;Canoeing;Canoeing Men's Kayak Doubles, 1,000 metres
+256;Water Polo;Water Polo Women's Water Polo
+257;Cycling;Cycling Men's Mountainbike, Cross-Country
+258;Athletics;Athletics Women's Triple Jump
+259;Basketball;Basketball Men's Basketball
+260;Shooting;Shooting Men's Double Trap
+261;Shooting;Shooting Mixed Skeet
+262;Biathlon;Biathlon Women's 4 x 7.5 kilometres Relay
+263;Swimming;Swimming Women's 200 metres Butterfly
+264;Cycling;Cycling Women's Individual Time Trial
+265;Cycling;Cycling Women's Road Race, Individual
+266;Athletics;Athletics Men's Decathlon
+267;Fencing;Fencing Men's Sabre, Team
+268;Freestyle Skiing;Freestyle Skiing Women's Halfpipe
+269;Gymnastics;Gymnastics Women's Uneven Bars
+270;Wrestling;Wrestling Men's Heavyweight, Greco-Roman
+271;Snowboarding;Snowboarding Women's Parallel Giant Slalom
+272;Biathlon;Biathlon Men's 10 kilometres Sprint
+273;Athletics;Athletics Women's 3,000 metres
+274;Wrestling;Wrestling Women's Lightweight, Freestyle
+275;Rowing;Rowing Women's Coxless Pairs
+276;Speed Skating;Speed Skating Men's 500 metres
+277;Diving;Diving Men's Plain High
+278;Wrestling;Wrestling Men's Flyweight, Greco-Roman
+279;Fencing;Fencing Women's Sabre, Team
+280;Speed Skating;Speed Skating Men's 1,500 metres
+281;Speed Skating;Speed Skating Men's 5,000 metres
+282;Sailing;Sailing Mixed 40 metres
+283;Rugby Sevens;Rugby Sevens Women's Rugby Sevens
+284;Curling;Curling Women's Curling
+285;Gymnastics;Gymnastics Women's Floor Exercise
+286;Swimming;Swimming Women's 100 metres Freestyle
+287;Swimming;Swimming Men's 200 metres Backstroke
+288;Weightlifting;Weightlifting Women's Featherweight
+289;Biathlon;Biathlon Women's 7.5 kilometres Sprint
+290;Shooting;Shooting Men's Trap, Team
+291;Badminton;Badminton Women's Singles
+292;Cycling;Cycling Men's Omnium
+293;Gymnastics;Gymnastics Men's Side Horse
+294;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres
+295;Cross Country Skiing;Cross Country Skiing Men's 30 kilometres
+296;Shooting;Shooting Mixed Free Rifle, Three Positions, 300 metres
+297;Athletics;Athletics Men's Marathon
+298;Sailing;Sailing Mixed Windsurfer
+299;Taekwondo;Taekwondo Women's Flyweight
+300;Shooting;Shooting Men's Small-Bore Rifle, Prone, 50 metres
+301;Cycling;Cycling Women's Keirin
+302;Shooting;Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres
+303;Cross Country Skiing;Cross Country Skiing Women's Sprint
+304;Archery;Archery Men's Target Archery, 28 metres, Individual
+305;Sailing;Sailing Mixed 7 metres
+306;Swimming;Swimming Men's 100 metres Breaststroke
+307;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay
+308;Swimming;Swimming Men's 1,500 metres Freestyle
+309;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres
+310;Shooting;Shooting Men's Free Rifle, Three Positions, 300 metres, Team
+311;Alpinism;Alpinism Mixed Alpinism
+312;Speed Skating;Speed Skating Men's Allround
+313;Trampolining;Trampolining Women's Individual
+314;Cycling;Cycling Women's BMX
+315;Athletics;Athletics Women's 1,500 metres
+316;Luge;Luge Mixed (Men)'s Doubles
+317;Snowboarding;Snowboarding Men's Boardercross
+318;Shooting;Shooting Women's Double Trap
+319;Equestrianism;Equestrianism Mixed Dressage, Individual
+320;Judo;Judo Men's Heavyweight
+321;Weightlifting;Weightlifting Men's Heavyweight
+322;Swimming;Swimming Men's 10 kilometres Open Water
+323;Athletics;Athletics Men's Discus Throw
+324;Athletics;Athletics Women's 10,000 metres
+325;Swimming;Swimming Men's 4 x 100 metres Medley Relay
+326;Shooting;Shooting Men's Running Target, 10 metres
+327;Speed Skating;Speed Skating Women's 1,000 metres
+328;Tennis;Tennis Mixed Doubles
+329;Equestrianism;Equestrianism Men's Three-Day Event, Team
+330;Weightlifting;Weightlifting Men's Bantamweight
+331;Shooting;Shooting Men's Military Rifle, Standing, 300 metres
+332;Boxing;Boxing Women's Lightweight
+333;Freestyle Skiing;Freestyle Skiing Women's Moguls
+334;Weightlifting;Weightlifting Women's Light-Heavyweight
+335;Ice Hockey;Ice Hockey Women's Ice Hockey
+336;Biathlon;Biathlon Men's 20 kilometres
+337;Rowing;Rowing Men's Lightweight Double Sculls
+338;Judo;Judo Men's Lightweight
+339;Athletics;Athletics Men's High Jump
+340;Athletics;Athletics Women's Long Jump
+341;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres
+342;Sailing;Sailing Men's Windsurfer
+343;Cycling;Cycling Men's 50 kilometres
+344;Canoeing;Canoeing Men's Kayak Doubles, 200 metres
+345;Wrestling;Wrestling Men's Super-Heavyweight, Greco-Roman
+346;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay
+347;Figure Skating;Figure Skating Men's Singles
+348;Shooting;Shooting Men's Running Target, Single Shot
+349;Alpine Skiing;Alpine Skiing Women's Giant Slalom
+350;Shooting;Shooting Men's Unknown Event
+351;Tennis;Tennis Women's Singles
+352;Athletics;Athletics Men's 20 kilometres Walk
+353;Rowing;Rowing Men's Coxless Fours
+354;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay
+355;Sailing;Sailing Women's Windsurfer
+356;Athletics;Athletics Men's 110 metres Hurdles
+357;Fencing;Fencing Men's epee, Team
+358;Shooting;Shooting Women's Sporting Pistol, 25 metres
+359;Water Polo;Water Polo Men's Water Polo
+360;Tennis;Tennis Women's Doubles
+361;Weightlifting;Weightlifting Men's Super-Heavyweight
+362;Boxing;Boxing Men's Super-Heavyweight
+363;Boxing;Boxing Women's Flyweight
+364;Short Track Speed Skating;Short Track Speed Skating Women's 3,000 metres Relay
+365;Fencing;Fencing Men's Foil, Team
+366;Alpine Skiing;Alpine Skiing Men's Downhill
+367;Shooting;Shooting Women's Air Rifle, 10 metres
+368;Archery;Archery Men's Pole Archery, Small Birds, Team
+369;Modern Pentathlon;Modern Pentathlon Women's Individual
+370;Athletics;Athletics Women's Hammer Throw
+371;Fencing;Fencing Women's epee, Individual
+372;Shooting;Shooting Women's Small-Bore Rifle, Three Positions, 50 metres
+373;Swimming;Swimming Women's 100 metres Breaststroke
+374;Shooting;Shooting Women's Air Pistol, 10 metres
+375;Sailing;Sailing Mixed 8 metres
+376;Canoeing;Canoeing Men's Canadian Singles, Slalom
+377;Sailing;Sailing Women's One Person Dinghy
+378;Rugby;Rugby Men's Rugby
+379;Sailing;Sailing Women's Three Person Keelboat
+380;Athletics;Athletics Men's 100 metres
+381;Canoeing;Canoeing Men's Folding Kayak Singles, 10 kilometres
+382;Shooting;Shooting Men's Free Pistol, 50 metres, Team
+383;Weightlifting;Weightlifting Women's Super-Heavyweight
+384;Archery;Archery Men's Pole Archery, Large Birds, Individual
+385;Handball;Handball Men's Handball
+386;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon
+387;Archery;Archery Women's Individual
+388;Diving;Diving Men's Synchronized Springboard
+389;Equestrianism;Equestrianism Mixed Jumping, Team
+390;Shooting;Shooting Men's Small-Bore Rifle, Three Positions, 50 metres
+391;Swimming;Swimming Men's 100 metres Butterfly
+392;Cross Country Skiing;Cross Country Skiing Women's 3 x 5 kilometres Relay
+393;Boxing;Boxing Men's Welterweight
+394;Aeronautics;Aeronautics Mixed Aeronautics
+395;Canoeing;Canoeing Men's Canadian Singles, 500 metres
+396;Table Tennis;Table Tennis Women's Singles
+397;Gymnastics;Gymnastics Men's Club Swinging
+398;Cycling;Cycling Men's Individual Time Trial
+399;Cycling;Cycling Men's BMX
+400;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres
+401;Sailing;Sailing Mixed Skiff
+402;Basketball;Basketball Women's Basketball
+403;Athletics;Athletics Men's 400 metres Hurdles
+404;Bobsleigh;Bobsleigh Men's Four/Five
+405;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon
+406;Athletics;Athletics Women's 10 kilometres Walk
+407;Biathlon;Biathlon Women's 4 x 6 kilometres Relay
+408;Sailing;Sailing Mixed 5.5 metres
+409;Military Ski Patrol;Military Ski Patrol Men's Military Ski Patrol
+410;Sailing;Sailing Men's One Person Heavyweight Dinghy
+411;Cross Country Skiing;Cross Country Skiing Men's Team Sprint
+412;Canoeing;Canoeing Men's Canadian Singles, 200 metres
+413;Sailing;Sailing Men's Two Person Dinghy
+414;Snowboarding;Snowboarding Men's Parallel Giant Slalom
+415;Tennis;Tennis Men's Doubles
+416;Fencing;Fencing Men's Sabre, Individual
+417;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres
+418;Table Tennis;Table Tennis Women's Doubles
+419;Athletics;Athletics Men's 56-pound Weight Throw
+420;Wrestling;Wrestling Men's Lightweight, Freestyle
+421;Athletics;Athletics Women's 100 metres Hurdles
+422;Shooting;Shooting Men's Military Rifle, 300 metres and 600 metres, Prone, Team
+423;Athletics;Athletics Men's 800 metres
+424;Wrestling;Wrestling Men's Welterweight, Greco-Roman
+425;Wrestling;Wrestling Men's Lightweight, Greco-Roman
+426;Gymnastics;Gymnastics Men's Rings
+427;Taekwondo;Taekwondo Men's Heavyweight
+428;Biathlon;Biathlon Men's 15 kilometres Mass Start
+429;Athletics;Athletics Men's Long Jump
+430;Volleyball;Volleyball Women's Volleyball
+431;Fencing;Fencing Women's epee, Team
+432;Canoeing;Canoeing Women's Kayak Singles, 200 metres
+433;Sailing;Sailing Women's Two Person Dinghy
+434;Biathlon;Biathlon Women's 15 kilometres
+435;Cross Country Skiing;Cross Country Skiing Women's Team Sprint
+436;Speed Skating;Speed Skating Men's 1,000 metres
+437;Athletics;Athletics Men's 10,000 metres
+438;Athletics;Athletics Men's Cross-Country, Individual
+439;Shooting;Shooting Men's Military Rifle, Prone, 300 metres, Team
+440;Wrestling;Wrestling Men's Middleweight, Greco-Roman
+441;Athletics;Athletics Men's Shot Put
+442;Taekwondo;Taekwondo Women's Heavyweight
+443;Cycling;Cycling Men's 1,000 metres Time Trial
+444;Cross Country Skiing;Cross Country Skiing Women's 15 kilometres
+445;Cycling;Cycling Men's Team Pursuit, 4,000 metres
+446;Swimming;Swimming Women's 100 metres Butterfly
+447;Athletics;Athletics Men's Javelin Throw
+448;Diving;Diving Men's Platform
+449;Snowboarding;Snowboarding Men's Slopestyle
+450;Cross Country Skiing;Cross Country Skiing Women's 5/10 kilometres Pursuit
+451;Wrestling;Wrestling Men's Light-Flyweight, Greco-Roman
+452;Archery;Archery Men's Individual
+453;Cross Country Skiing;Cross Country Skiing Men's 10 kilometres
+454;Freestyle Skiing;Freestyle Skiing Women's Ski Cross
+455;Softball;Softball Women's Softball
+456;Synchronized Swimming;Synchronized Swimming Women's Team
+457;Cycling;Cycling Men's Tandem Sprint, 2,000 metres
+458;Archery;Archery Men's Target Archery, 50 metres, Individual
+459;Gymnastics;Gymnastics Women's Horse Vault
+460;Equestrianism;Equestrianism Mixed Three-Day Event, Individual
+461;Shooting;Shooting Mixed Free Pistol, 50 metres
+462;Athletics;Athletics Women's Pentathlon
+463;Cycling;Cycling Women's Sprint
+464;Rowing;Rowing Women's Quadruple Sculls
+465;Wrestling;Wrestling Men's Super-Heavyweight, Freestyle
+466;Speed Skating;Speed Skating Women's Team Pursuit (6 laps)
+467;Boxing;Boxing Men's Heavyweight
+468;Sailing;Sailing Mixed 6 metres
+469;Shooting;Shooting Mixed Trap
+470;Swimming;Swimming Men's 200 metres Freestyle
+471;Swimming;Swimming Women's 4 x 100 metres Freestyle Relay
+472;Fencing;Fencing Men's Foil, Individual
+473;Cycling;Cycling Women's Points Race
+474;Athletics;Athletics Women's Javelin Throw
+475;Snowboarding;Snowboarding Men's Giant Slalom
+476;Canoeing;Canoeing Women's Kayak Singles, 500 metres
+477;Canoeing;Canoeing Men's Canadian Doubles, Slalom
+478;Wrestling;Wrestling Women's Featherweight, Freestyle
+479;Rowing;Rowing Men's Lightweight Coxless Fours
+480;Gymnastics;Gymnastics Men's Individual All-Around
+481;Canoeing;Canoeing Men's Canadian Singles, 10,000 metres
+482;Swimming;Swimming Women's 10 kilometres Open Water
+483;Biathlon;Biathlon Women's 10 kilometres Pursuit
+484;Archery;Archery Men's Target Archery, 33 metres, Team
+485;Wrestling;Wrestling Men's Bantamweight, Freestyle
+486;Judo;Judo Men's Open Class
+487;Athletics;Athletics Men's 3,000 metres, Team
+488;Weightlifting;Weightlifting Men's Middle-Heavyweight
+489;Triathlon;Triathlon Women's Olympic Distance
+490;Curling;Curling Men's Curling
+491;Gymnastics;Gymnastics Men's Floor Exercise
+492;Table Tennis;Table Tennis Men's Team
+493;Shooting;Shooting Men's Running Target, Double Shot
+494;Athletics;Athletics Men's 200 metres
+495;Cycling;Cycling Men's Team Sprint
+496;Synchronized Swimming;Synchronized Swimming Women's Solo
+497;Canoeing;Canoeing Women's Kayak Fours, 500 metres
+498;Biathlon;Biathlon Men's 12.5 kilometres Pursuit
+499;Wrestling;Wrestling Men's Flyweight, Freestyle
+500;Swimming;Swimming Women's 200 metres Individual Medley
+501;Nordic Combined;Nordic Combined Men's Individual
+502;Swimming;Swimming Men's 200 metres Individual Medley
+503;Canoeing;Canoeing Men's Kayak Relay 4 x 500 metres
+504;Freestyle Skiing;Freestyle Skiing Women's Aerials
+505;Boxing;Boxing Men's Bantamweight
+506;Fencing;Fencing Men's epee, Individual
+507;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres
+508;Alpine Skiing;Alpine Skiing Men's Combined
+509;Biathlon;Biathlon Women's 12.5 kilometres Mass Start
+510;Rowing;Rowing Women's Lightweight Double Sculls
+511;Athletics;Athletics Women's 3,000 metres Steeplechase
+512;Alpine Skiing;Alpine Skiing Men's Slalom
+513;Athletics;Athletics Men's 50 kilometres Walk
+514;Judo;Judo Women's Half-Middleweight
+515;Judo;Judo Men's Half-Heavyweight
+516;Sailing;Sailing Mixed Two Person Keelboat
+517;Beach Volleyball;Beach Volleyball Women's Beach Volleyball
+518;Gymnastics;Gymnastics Women's Team Portable Apparatus
+519;Swimming;Swimming Men's 100 metres Backstroke
+520;Shooting;Shooting Men's Military Pistol, 30 metres
+521;Rowing;Rowing Men's Double Sculls
+522;Cycling;Cycling Women's Mountainbike, Cross-Country
+523;Shooting;Shooting Men's Military Rifle, Prone, 300 metres
+524;Hockey;Hockey Men's Hockey
+525;Cross Country Skiing;Cross Country Skiing Women's 20 kilometres
+526;Judo;Judo Women's Extra-Lightweight
+527;Boxing;Boxing Men's Light-Heavyweight
+528;Canoeing;Canoeing Men's Canadian Doubles, 500 metres
+529;Cycling;Cycling Men's Madison
+530;Equestrianism;Equestrianism Men's Jumping, Team
+531;Hockey;Hockey Women's Hockey
+532;Wrestling;Wrestling Men's Light-Heavyweight, Freestyle
+533;Snowboarding;Snowboarding Women's Giant Slalom
+534;Judo;Judo Men's Half-Middleweight
+535;Golf;Golf Women's Individual
+536;Rhythmic Gymnastics;Rhythmic Gymnastics Women's Individual
+537;Canoeing;Canoeing Men's Folding Kayak Doubles, 10 kilometres
+538;Gymnastics;Gymnastics Men's Tumbling
+539;Gymnastics;Gymnastics Men's Parallel Bars
+540;Judo;Judo Women's Half-Lightweight
+541;Diving;Diving Women's Plain High
+542;Athletics;Athletics Women's 400 metres Hurdles
+543;Snowboarding;Snowboarding Women's Boardercross
+544;Taekwondo;Taekwondo Men's Featherweight
+545;Trampolining;Trampolining Men's Individual
+546;Tug-Of-War;Tug-Of-War Men's Tug-Of-War
+547;Alpine Skiing;Alpine Skiing Women's Slalom
+548;Boxing;Boxing Men's Flyweight
+549;Football;Football Men's Football
+550;Taekwondo;Taekwondo Women's Featherweight
+551;Rowing;Rowing Men's Single Sculls
+552;Judo;Judo Women's Heavyweight
+553;Shooting;Shooting Men's Military Rifle, Prone, 600 metres, Team
+554;Luge;Luge Women's Singles
+555;Weightlifting;Weightlifting Men's Featherweight
+556;Cycling;Cycling Women's Team Sprint
+557;Equestrianism;Equestrianism Men's Dressage, Team
+558;Judo;Judo Men's Half-Lightweight
+559;Cycling;Cycling Women's Omnium
+560;Skeleton;Skeleton Women's Skeleton
+561;Shooting;Shooting Men's Rapid-Fire Pistol, 25 metres
+562;Athletics;Athletics Women's 800 metres
+563;Weightlifting;Weightlifting Men's Middleweight
+564;Weightlifting;Weightlifting Women's Heavyweight
+565;Cross Country Skiing;Cross Country Skiing Women's 5 kilometres
+566;Swimming;Swimming Women's 400 metres Freestyle
+567;Wrestling;Wrestling Men's Middleweight, Freestyle
+568;Equestrianism;Equestrianism Men's Vaulting, Individual
+569;Canoeing;Canoeing Women's Kayak Singles, Slalom
+570;Golf;Golf Men's Individual
+571;Swimming;Swimming Men's 50 metres Freestyle
+572;Shooting;Shooting Men's Free Pistol, 50 metres
